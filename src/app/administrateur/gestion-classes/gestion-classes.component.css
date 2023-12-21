@@ -1,0 +1,24 @@
+.sidebar {
+    height: 75vh;
+}
+
+.sidebarContainer{
+    background-color: #007DFE;
+}
+
+.trait {
+    border: 1px solid #007DFE;
+    width: 20%;
+    margin: 0 auto;
+}
+
+.nav-pills a {
+    cursor: pointer;
+}
+.titre {
+    color: #007DFE;
+}
+
+.btnClose{
+    color: #007DFE;
+}
